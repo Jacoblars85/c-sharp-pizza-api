@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/c-sharp-pizza-api.props" />
-</Project>
