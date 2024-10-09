@@ -1,6 +1,6 @@
-using Pizza_api.Models;
+using PizzaApi.Models;
 
-namespace Pizza_api.Services;
+namespace PizzaApi.Services;
 
 public static class PizzaService
 {
