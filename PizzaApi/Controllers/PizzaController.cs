@@ -1,8 +1,8 @@
-using Pizza_api.Models;
-using Pizza_api.Services;
+using PizzaApi.Models;
+using PizzaApi.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Pizza_api.Controllers;
+namespace PizzaApi.Controllers;
 
 [ApiController]
 [Route("[controller]")]
