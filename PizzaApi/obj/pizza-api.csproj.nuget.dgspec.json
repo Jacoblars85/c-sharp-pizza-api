@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/pizza-api/pizza-api.csproj": {}
+    "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/pizza-api.csproj": {}
   },
   "projects": {
-    "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/pizza-api/pizza-api.csproj": {
+    "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/pizza-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/pizza-api/pizza-api.csproj",
+        "projectUniqueName": "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/pizza-api.csproj",
         "projectName": "pizza-api",
-        "projectPath": "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/pizza-api/pizza-api.csproj",
+        "projectPath": "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/pizza-api.csproj",
         "packagesPath": "/Users/jacoblars85/.nuget/packages/",
-        "outputPath": "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/pizza-api/obj/",
+        "outputPath": "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jacoblars85/.nuget/NuGet/NuGet.Config"

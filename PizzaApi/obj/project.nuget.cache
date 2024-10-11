@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e7l43cusaWx3VEYgVdII/+Y0WU5RFBWWsRei/AVY4k4ibFqK2XYEdlN+FHxK5fxojftXBtj5FI/1qfL6ScjKsQ==",
+  "dgSpecHash": "eShExi7aD++XdiwnFQDlwjJGoP6CQvYvnoVNtqgSncIOc4xZcIEml2Ep6/gWxYDKgOeFak8DbZ+EumWWyK8QXA==",
   "success": true,
-  "projectFilePath": "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/pizza-api/pizza-api.csproj",
+  "projectFilePath": "/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/pizza-api.csproj",
   "expectedPackageFiles": [
     "/Users/jacoblars85/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/jacoblars85/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

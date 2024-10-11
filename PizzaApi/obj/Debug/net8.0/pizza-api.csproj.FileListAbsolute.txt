@@ -1,0 +1,8 @@
+/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/Debug/net8.0/pizza-api.csproj.AssemblyReference.cache
+/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/Debug/net8.0/pizza-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/Debug/net8.0/pizza-api.AssemblyInfoInputs.cache
+/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/Debug/net8.0/pizza-api.AssemblyInfo.cs
+/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/Debug/net8.0/pizza-api.csproj.CoreCompileInputs.cache
+/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/Debug/net8.0/pizza-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/Debug/net8.0/pizza-api.MvcApplicationPartsAssemblyInfo.cache
+/Users/jacoblars85/Desktop/code/fun/c-sharp-pizza-api/PizzaApi/obj/Debug/net8.0/pizza-api.sourcelink.json
