@@ -37,6 +37,11 @@ public IActionResult Create(Pizza pizza)
 }
 
     // PUT action
+    [HttpPut("{id}")]
+public IActionResult Update(int id, Pizza pizza)
+{
+    // This code will update the pizza and return a result
+}
 
     // DELETE action
 }
