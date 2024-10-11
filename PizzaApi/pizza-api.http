@@ -14,3 +14,8 @@ GET {{ContosoPizza_HostAddress}}/pizza/1
 Accept: application/json
 
 ###
+
+GET {{ContosoPizza_HostAddress}}/pizza/5
+Accept: application/json
+
+###
