@@ -30,6 +30,11 @@ public ActionResult<Pizza> Get(int id)
 }
 
     // POST action
+[HttpPost]
+public IActionResult Create(Pizza pizza)
+{            
+    // This code will save the pizza and return a result
+}
 
     // PUT action
 
