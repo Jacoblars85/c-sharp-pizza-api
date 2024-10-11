@@ -33,7 +33,8 @@ public ActionResult<Pizza> Get(int id)
 [HttpPost]
 public IActionResult Create(Pizza pizza)
 {            
-    // This code will save the pizza and return a result
+    PizzaService.Add(pizza);
+    return CreatedAtAction(nameof(Get), new { id = pizza.Id }, pizza);
 }
 
     // PUT action
