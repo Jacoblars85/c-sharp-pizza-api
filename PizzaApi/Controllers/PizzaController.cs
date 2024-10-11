@@ -44,4 +44,9 @@ public IActionResult Update(int id, Pizza pizza)
 }
 
     // DELETE action
+    [HttpDelete("{id}")]
+public IActionResult Delete(int id)
+{
+    // This code will delete the pizza and return a result
+}
 }
