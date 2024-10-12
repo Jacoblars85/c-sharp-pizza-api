@@ -19,3 +19,13 @@ GET {{ContosoPizza_HostAddress}}/pizza/5
 Accept: application/json
 
 ###
+
+POST {{ContosoPizza_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+###
