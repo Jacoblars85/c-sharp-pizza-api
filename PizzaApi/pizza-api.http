@@ -49,3 +49,8 @@ Accept: application/json
 DELETE {{ContosoPizza_HostAddress}}/pizza/3
 
 ###
+
+GET {{ContosoPizza_HostAddress}}/pizza/
+Accept: application/json
+
+###
