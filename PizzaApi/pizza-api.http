@@ -40,3 +40,8 @@ Content-Type: application/json
 }
 
 ###
+
+GET {{ContosoPizza_HostAddress}}/pizza/3
+Accept: application/json
+
+###
